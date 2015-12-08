@@ -1,0 +1,1 @@
+This is a plugin for Sublime Text 2 to send a selected text from sublime to any email address provided by a user input. The selected sender medium is gmail.
